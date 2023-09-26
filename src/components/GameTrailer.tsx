@@ -1,5 +1,5 @@
 import React from "react";
-import { Game } from "../entities/Game";
+import Game from "../entities/Game";
 import APIClient from "../services/api-client";
 import { useQuery } from "@chakra-ui/react";
 import useTrailers from "../hooks/useTrailers";
